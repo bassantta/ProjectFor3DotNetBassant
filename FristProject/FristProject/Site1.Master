@@ -11,6 +11,8 @@
     <header>
 
         <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Admin.aspx">Admin page</asp:HyperLink>
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Home.aspx">Home Page</asp:HyperLink>
 
     </header>
 <body>
@@ -18,7 +20,7 @@
         <div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
                
-                <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Home.aspx">Home Page</asp:HyperLink>
+            
                
             </asp:ContentPlaceHolder>
         </div>

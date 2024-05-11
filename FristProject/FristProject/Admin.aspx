@@ -1,19 +1,13 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Admin.aspx.cs" Inherits="FristProject.WebForm2" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Admin.aspx.cs" Inherits="FristProject.Admin" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
 
-<!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title></title>
-    <style type="text/css">
-        .auto-style1 {
-            color: #000000;
-        }
-    </style>
-</head>
-<body>
-    <form id="form1" runat="server">
-        <div style="color: #663300; font-size: larger; text-align: center; font-weight: 700">
+
+
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+
+            <div style="color: #663300; font-size: larger; text-align: center; font-weight: 700">
             Admin<br />
             <br />
             <br />
@@ -59,6 +53,6 @@
                 <SortedDescendingHeaderStyle BackColor="#C2A47B" />
             </asp:GridView>
         </div>
-    </form>
-</body>
-</html>
+
+
+</asp:Content>
