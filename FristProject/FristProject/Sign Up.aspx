@@ -23,15 +23,20 @@
         <div class="auto-style1" style="text-align: center">
             <strong><span class="auto-style3">Sign Up</span><br class="auto-style3" />
             <br />
-            <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:TestConnectionString %>" ProviderName="<%$ ConnectionStrings:TestConnectionString.ProviderName %>" SelectCommand="SELECT * FROM [Users]"></asp:SqlDataSource>
+            <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="Data Source=DESKTOP-VSUOIB8;Initial Catalog=Bank;Integrated Security=True;" ProviderName="<%$ ConnectionStrings:BankConnectionString.ProviderName %>" SelectCommand="SELECT * FROM [Users]" InsertCommand="insert into Users (name ,password ) values (@name,@password)">
+                <InsertParameters>
+                    <asp:ControlParameter ControlID="name" Name="name" PropertyName="Text" />
+                    <asp:ControlParameter ControlID="password" Name="password" PropertyName="Text" />
+                </InsertParameters>
+            </asp:SqlDataSource>
             <br />
             <br />
             <span class="auto-style2">Name </span>
-            <asp:TextBox ID="TextBox1" runat="server" OnTextChanged="TextBox1_TextChanged">Name</asp:TextBox>
+            <asp:TextBox ID="name" runat="server" OnTextChanged="TextBox1_TextChanged">Name</asp:TextBox>
             <br />
             <br />
             <span class="auto-style2">Password </span>
-            <asp:TextBox ID="TextBox2" runat="server" style="width: 168px">Password</asp:TextBox>
+            <asp:TextBox ID="password" runat="server" style="width: 168px">Password</asp:TextBox>
             <br />
             <br />
             <asp:Button ID="Button1" runat="server" BackColor="Black" BorderColor="White" ForeColor="White" OnClick="Button1_Click" Text="Submit" />

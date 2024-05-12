@@ -14,14 +14,19 @@ namespace FristProject
 
         }
 
-        protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
+        protected void Button2_Click(object sender, EventArgs e)
         {
-
+            SqlDataSource1.Insert();
         }
 
-        protected void TextBox1_TextChanged(object sender, EventArgs e)
+        protected void Button4_Click(object sender, EventArgs e)
         {
+            SqlDataSource1.Update();
+        }
 
+        protected void Button3_Click(object sender, EventArgs e)
+        {
+            SqlDataSource1.Delete();
         }
     }
 }

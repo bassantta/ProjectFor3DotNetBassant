@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Projects\\ProjectFor3DotNetBassant\\FristProject\\",
+  "WorkspaceRootPath": "C:\\Users\\is laptop\\Desktop\\Projects\\Bassant\\ProjectFor3DotNetBassant\\FristProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|c:\\users\\lenovo\\desktop\\projects\\projectfor3dotnetbassant\\fristproject\\fristproject\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|solutionrelative:fristproject\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|C:\\Users\\lenovo\\Desktop\\Projects\\ProjectFor3DotNetBassant\\FristProject\\fristproject\\sign up.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|c:\\users\\is laptop\\desktop\\projects\\bassant\\projectfor3dotnetbassant\\fristproject\\fristproject\\sign up.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|solutionrelative:fristproject\\sign up.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|C:\\Users\\lenovo\\Desktop\\Projects\\ProjectFor3DotNetBassant\\FristProject\\fristproject\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|solutionrelative:fristproject\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|c:\\users\\is laptop\\desktop\\projects\\bassant\\projectfor3dotnetbassant\\fristproject\\fristproject\\sign up.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|solutionrelative:fristproject\\sign up.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|c:\\users\\lenovo\\desktop\\projects\\projectfor3dotnetbassant\\fristproject\\fristproject\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|c:\\users\\is laptop\\desktop\\projects\\bassant\\projectfor3dotnetbassant\\fristproject\\fristproject\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|solutionrelative:fristproject\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|C:\\Users\\is laptop\\Desktop\\Projects\\Bassant\\ProjectFor3DotNetBassant\\FristProject\\fristproject\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|solutionrelative:fristproject\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|C:\\Users\\lenovo\\Desktop\\Projects\\ProjectFor3DotNetBassant\\FristProject\\fristproject\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|C:\\Users\\is laptop\\Desktop\\Projects\\Bassant\\ProjectFor3DotNetBassant\\FristProject\\fristproject\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|solutionrelative:fristproject\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|C:\\Users\\is laptop\\Desktop\\Projects\\Bassant\\ProjectFor3DotNetBassant\\FristProject\\fristproject\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{B6EFBED7-910E-47CD-ACBF-41E85E717597}|FristProject\\FristProject.csproj|solutionrelative:fristproject\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
@@ -33,25 +37,55 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sign Up.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\is laptop\\Desktop\\Projects\\Bassant\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Sign Up.aspx.cs",
+              "RelativeDocumentMoniker": "FristProject\\Sign Up.aspx.cs",
+              "ToolTip": "C:\\Users\\is laptop\\Desktop\\Projects\\Bassant\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Sign Up.aspx.cs",
+              "RelativeToolTip": "FristProject\\Sign Up.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAxwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T01:10:42.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sign Up.aspx",
+              "DocumentMoniker": "C:\\Users\\is laptop\\Desktop\\Projects\\Bassant\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Sign Up.aspx",
+              "RelativeDocumentMoniker": "FristProject\\Sign Up.aspx",
+              "ToolTip": "C:\\Users\\is laptop\\Desktop\\Projects\\Bassant\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Sign Up.aspx",
+              "RelativeToolTip": "FristProject\\Sign Up.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-12T01:08:15.594Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Admin.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Projects\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Admin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\is laptop\\Desktop\\Projects\\Bassant\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Admin.aspx.cs",
               "RelativeDocumentMoniker": "FristProject\\Admin.aspx.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Projects\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Admin.aspx.cs",
+              "ToolTip": "C:\\Users\\is laptop\\Desktop\\Projects\\Bassant\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Admin.aspx.cs",
               "RelativeToolTip": "FristProject\\Admin.aspx.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAtwAsAAAA8AAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAywBwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T23:27:45.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Home.aspx",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Projects\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Home.aspx",
+              "DocumentMoniker": "C:\\Users\\is laptop\\Desktop\\Projects\\Bassant\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Home.aspx",
               "RelativeDocumentMoniker": "FristProject\\Home.aspx",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Projects\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Home.aspx",
+              "ToolTip": "C:\\Users\\is laptop\\Desktop\\Projects\\Bassant\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Home.aspx",
               "RelativeToolTip": "FristProject\\Home.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -60,11 +94,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Admin.aspx",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Projects\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Admin.aspx",
+              "DocumentMoniker": "C:\\Users\\is laptop\\Desktop\\Projects\\Bassant\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Admin.aspx",
               "RelativeDocumentMoniker": "FristProject\\Admin.aspx",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Projects\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Admin.aspx",
+              "ToolTip": "C:\\Users\\is laptop\\Desktop\\Projects\\Bassant\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Admin.aspx",
               "RelativeToolTip": "FristProject\\Admin.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -73,24 +107,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Sign Up.aspx",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Projects\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Sign Up.aspx",
-              "RelativeDocumentMoniker": "FristProject\\Sign Up.aspx",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Projects\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Sign Up.aspx",
-              "RelativeToolTip": "FristProject\\Sign Up.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-11T22:56:33.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Site1.Master",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Projects\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Site1.Master",
+              "DocumentMoniker": "C:\\Users\\is laptop\\Desktop\\Projects\\Bassant\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Site1.Master",
               "RelativeDocumentMoniker": "FristProject\\Site1.Master",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Projects\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Site1.Master",
+              "ToolTip": "C:\\Users\\is laptop\\Desktop\\Projects\\Bassant\\ProjectFor3DotNetBassant\\FristProject\\FristProject\\Site1.Master",
               "RelativeToolTip": "FristProject\\Site1.Master",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
