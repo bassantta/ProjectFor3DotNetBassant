@@ -34,8 +34,7 @@
             <asp:TextBox ID="TextBox2" runat="server" style="width: 168px">Password</asp:TextBox>
             <br />
             <br />
-            <br />
-            <asp:Button ID="Button1" runat="server" BackColor="#663300" BorderColor="White" ForeColor="White" OnClick="Button1_Click" Text="Submit" />
+            <asp:Button ID="Button1" runat="server" BackColor="Black" BorderColor="White" ForeColor="White" OnClick="Button1_Click" Text="Submit" />
             </strong>
         </div>
     </form>
